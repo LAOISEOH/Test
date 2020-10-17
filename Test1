@@ -1,0 +1,9 @@
+< Course > = "CT1101"
+< Year > = "1st"
+< Course_Type > = "BA" 
+< Uni > = "NUIG" 
+
+print((Course), "is a module of", (Year), "year", (Course Type), (Uni))
+
+
+
